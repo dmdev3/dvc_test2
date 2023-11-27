@@ -1,0 +1,4 @@
+[core]
+    remote = storage6
+['remote "storage6"']
+    url = s3://practice-ds-ai-6
