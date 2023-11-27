@@ -1,0 +1,5 @@
+outs:
+- md5: c3257e7caec4970f8278f3286d5e4e07
+  size: 1224150581
+  hash: md5
+  path: bigfile_1.zip
